@@ -301,18 +301,3 @@ footer .line {
   margin-top: 12px;
   margin-bottom: 24px;
 }
-
-.social-icons a {
-  width: 40px;
-  height: 40px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  background-color: rgba(255, 255, 255, 0.1);
-  border-radius: 100px;
-}
-
-.social-icons a:hover {
-  background-color: var(--c-brand);
-  color: white;
-}
